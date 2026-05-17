@@ -94,7 +94,7 @@ export const config = {
             category: "ML",
             technologies: "HTML, CSS, JavaScript, Python, ML",
             image: "images/emotion.jpg",
-            github: "https://github.com/shiva12z",
+            github: "https://github.com/shiva12z/Emotion-detection-in-text",
             description: "This project is about emotion detection in text using machine learning. It uses ML model to detect the emotion in the text. It also provides a visualization of the detected emotions."
         },
 
