@@ -6,7 +6,7 @@ export default defineConfig(({ command }) => ({
   plugins: [react()],
   
   // Set base path: '/' for local dev, '/Portfolio/' for GitHub Pages production
-  base: command === 'serve' ? '/' : '/Portfolio/',
+  base: command === 'serve' ? '/' : '/PORTFOLIO01/',
 
   build: {
     rolldownOptions: {
