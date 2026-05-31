@@ -1,4 +1,4 @@
-# My Portfolio Website by @red1-for-hek - Overview 🚀
+# My Portfolio Website by @Shiva Krishna - Overview 🚀
 This is a modern 3D portfolio website showcasing my skills as a developer. Built with cutting-edge technologies like React, TypeScript, and Three.js, it features interactive animations and a sleek design. Perfect for developers looking for inspiration or a template for their own portfolio. The project emphasizes AI and Machine Learning integrations, making it a standout example of innovation. Explore the codebase and customize it to create your unique online presence.
 
 ![Project Preview](public/images/example.jpg)
